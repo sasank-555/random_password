@@ -176,6 +176,16 @@ const page = () => {
           </div>
         </div>
       )}
+
+      <p className="text-center text-sm mt-6 tracking-widest flex gap-1">
+        Check My
+        <a
+          href="https://github.com/sasank-555"
+          className=" mr-1 underline underline-offset-1 tracking-widest"
+        >
+          Github
+        </a>
+      </p>
     </Vortex>
   );
 };
